@@ -1,0 +1,28 @@
+#video{
+height:50px;
+width:100%;
+font-size: 25px;
+margin: 0;
+
+}
+#video:hover{
+    background-color: darkorange;
+}
+#button:hover{
+    background-color:blue;
+    color:azure;
+}
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#button{
+    font-size: 20px;
+}
+canvas{
+    border-radius: 10px;
+    border:2px solid white;
+    margin-top: 55px;
+}
